@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+temp/
+apps/api/temp/
+apps/web/.next/
+apps/api/test_face.jpg
+.env
+.env.local

@@ -1,0 +1,206 @@
+{
+  "male": {
+    "square": [
+      {
+        "id": "m_sq_1",
+        "style": "Textured Crop",
+        "image": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Adds texture on top while keeping the silhouette controlled.",
+        "length": "short",
+        "maintenance": "medium",
+        "texture": ["straight", "wavy"]
+      },
+      {
+        "id": "m_sq_2",
+        "style": "Classic Pompadour",
+        "image": "https://images.unsplash.com/photo-1593702279155-2d6dbbb94dcb?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "The height elongates the face, softening the strong geometry of your jaw.",
+        "length": "medium",
+        "maintenance": "high",
+        "texture": ["straight", "thick"]
+      }
+    ],
+    "round": [
+      {
+        "id": "m_ro_1",
+        "style": "High Skin Fade with Quiff",
+        "image": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Tight sides and volume on top create the illusion of a longer, more structured face.",
+        "length": "short",
+        "maintenance": "high",
+        "texture": ["straight", "wavy"]
+      },
+      {
+        "id": "m_ro_2",
+        "style": "Faux Hawk",
+        "image": "https://images.unsplash.com/photo-1520975661595-56546accd07b?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Draws the eyes upward, balancing the rounded cheekbones.",
+        "length": "medium",
+        "maintenance": "medium",
+        "texture": ["thick", "straight"]
+      }
+    ],
+    "oval": [
+      {
+        "id": "m_ov_1",
+        "style": "Push Back Long Top",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "An oval face can carry off almost any style. Pushing the hair back highlights your balanced proportions.",
+        "length": "medium",
+        "maintenance": "high",
+        "texture": ["wavy", "straight"]
+      },
+      {
+        "id": "m_ov_2",
+        "style": "Buzz Cut",
+        "image": "https://images.unsplash.com/photo-1517832606299-7ae9b720a186?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Requires a strong head shape, which an oval structure naturally provides.",
+        "length": "very short",
+        "maintenance": "low",
+        "texture": ["all"]
+      }
+    ],
+    "heart": [
+      {
+        "id": "m_ht_1",
+        "style": "Mid-Length Swept Back",
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Softens the wide forehead while carrying enough volume to balance the narrow chin.",
+        "length": "medium",
+        "maintenance": "high",
+        "texture": ["wavy", "straight"]
+      },
+      {
+        "id": "m_ht_2",
+        "style": "Side Parted Fringe",
+        "image": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "A side fringe breaks up the width of the forehead elegantly.",
+        "length": "medium",
+        "maintenance": "medium",
+        "texture": ["straight"]
+      }
+    ],
+    "long": [
+      {
+        "id": "m_lg_1",
+        "style": "Side Part with Natural Flow",
+        "image": "https://images.unsplash.com/photo-1605406575497-015ab0d21b9b?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Keeps the top relatively flat while leaving length on the sides to add width to your face.",
+        "length": "medium",
+        "maintenance": "medium",
+        "texture": ["wavy", "straight"]
+      },
+      {
+        "id": "m_lg_2",
+        "style": "Messy Fringe",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Hair falling over the forehead visually reduces the length of the face.",
+        "length": "short-medium",
+        "maintenance": "low",
+        "texture": ["wavy", "curly"]
+      }
+    ]
+  },
+  "female": {
+    "square": [
+      {
+        "id": "f_sq_1",
+        "style": "Soft Wispy Bangs",
+        "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Softens the sharp angles of the jawline with gentle movement around the eyes.",
+        "length": "medium",
+        "maintenance": "high",
+        "texture": ["straight", "wavy"]
+      },
+      {
+        "id": "f_sq_2",
+        "style": "Long Layers",
+        "image": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Length draws the eye down, elongating the face and softening the corners.",
+        "length": "long",
+        "maintenance": "medium",
+        "texture": ["wavy", "thick"]
+      }
+    ],
+    "round": [
+      {
+        "id": "f_ro_1",
+        "style": "Structured Lob (Long Bob)",
+        "image": "https://images.unsplash.com/photo-1603924976735-86f2b4ced0ea?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "A sharp cut below the chin creates angles that contrast the roundness.",
+        "length": "medium",
+        "maintenance": "medium",
+        "texture": ["straight"]
+      },
+      {
+        "id": "f_ro_2",
+        "style": "Deep Side Part",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Asymmetry breaks the circular shape and adds volume to the top.",
+        "length": "long",
+        "maintenance": "low",
+        "texture": ["wavy", "curly"]
+      }
+    ],
+    "oval": [
+      {
+        "id": "f_ov_1",
+        "style": "Blunt Bob",
+        "image": "https://images.unsplash.com/photo-1542596594-649edbc13630?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Oval faces can handle bold, blunt cuts beautifully without being overwhelmed.",
+        "length": "short",
+        "maintenance": "high",
+        "texture": ["straight"]
+      },
+      {
+        "id": "f_ov_2",
+        "style": "Shoulder-length Waves",
+        "image": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "A classic, universally flattering look that highlights naturally balanced proportions.",
+        "length": "medium",
+        "maintenance": "medium",
+        "texture": ["wavy"]
+      }
+    ],
+    "heart": [
+      {
+        "id": "f_ht_1",
+        "style": "Collarbone-Length Cut",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Draws focus away from a pointy chin while adding fullness around the jaw.",
+        "length": "medium",
+        "maintenance": "low",
+        "texture": ["straight", "wavy"]
+      },
+      {
+        "id": "f_ht_2",
+        "style": "Side-swept Pixie",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Emphasizes the eyes and cheekbones, keeping the top heavy to balance the lower face.",
+        "length": "short",
+        "maintenance": "high",
+        "texture": ["fine", "straight"]
+      }
+    ],
+    "long": [
+      {
+        "id": "f_lg_1",
+        "style": "Curtain Bangs",
+        "image": "https://images.unsplash.com/photo-1510832198440-a52376950479?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Cuts across the face to visually shorten its length, adding soft volume to the sides.",
+        "length": "medium-long",
+        "maintenance": "high",
+        "texture": ["wavy", "straight"]
+      },
+      {
+        "id": "f_lg_2",
+        "style": "Voluminous Curls",
+        "image": "https://images.unsplash.com/photo-1600880182607-b24e650d754e?auto=format&fit=crop&q=80&w=400",
+        "why_it_works": "Adds horizontal width, perfectly balancing a vertically long shape.",
+        "length": "long",
+        "maintenance": "high",
+        "texture": ["curly"]
+      }
+    ]
+  }
+}
