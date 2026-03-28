@@ -64,6 +64,9 @@ export default function Home() {
         throw new Error(data.message || "Failed to analyze face.");
       }
 
+      // Override the preview URL with a local blob to avoid mixed-content or localhost port errors on remote devices
+      data.image_preview_url = URL.createObjectURL(file);
+
       setResult(data);
       setStep("results");
     } catch (err: any) {
